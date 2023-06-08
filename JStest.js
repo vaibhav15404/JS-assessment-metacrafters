@@ -45,5 +45,7 @@ console.log("Number of NFTs: " +NFTs.length)
 // call your functions below this line
 mintNFT("Vaibhav","black","t-shirt","plantinum bracelet")
 mintNFT("Rajput","black","shirt","gold watch")
+mintNFT("Vishnu","black","hoodie","gold goggles")
+mintNFT("Devansh","black","Sweater","golden cap")
 listNFTs()
 getTotalSupply()
